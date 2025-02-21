@@ -1,0 +1,11 @@
+id,peca,modelo_carro,preco,data
+1,Pastilha de Freio,Fiat Uno,150.00,2023-01-15
+2,Filtro de Óleo,Volkswagen Gol,80.00,2023-02-10
+3,Disco de Freio,Chevrolet Onix,200.00,2023-03-05
+4,Velas de Ignição,Hyundai HB20,60.00,2023-03-20
+5,Amortecedor,Renault Clio,350.00,2023-04-12
+6,Pastilha de Freio,Volkswagen Golf,180.00,2023-02-25
+7,Filtro de Ar,Fiat Palio,70.00,2023-01-28
+8,Disco de Freio,Fiat Uno,190.00,2023-03-11
+9,Velas de Ignição,Chevrolet Onix,65.00,2023-02-18
+10,Amortecedor,Volkswagen Gol,360.00,2023-04-05
