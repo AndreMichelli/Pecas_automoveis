@@ -1,11 +1,401 @@
 id,peca,modelo_carro,preco,data
-1,Pastilha de Freio,Fiat Uno,150.00,2023-01-15
-2,Filtro de Óleo,Volkswagen Gol,80.00,2023-02-10
-3,Disco de Freio,Chevrolet Onix,200.00,2023-03-05
-4,Velas de Ignição,Hyundai HB20,60.00,2023-03-20
-5,Amortecedor,Renault Clio,350.00,2023-04-12
-6,Pastilha de Freio,Volkswagen Golf,180.00,2023-02-25
-7,Filtro de Ar,Fiat Palio,70.00,2023-01-28
-8,Disco de Freio,Fiat Uno,190.00,2023-03-11
-9,Velas de Ignição,Chevrolet Onix,65.00,2023-02-18
-10,Amortecedor,Volkswagen Gol,360.00,2023-04-05
+1,Pastilha de Freio,Hyundai HB20,387.94,2023-02-08
+2,Filtro de Ar,Volkswagen Golf,111.16,2023-03-16
+3,Pastilha de Freio,Hyundai HB20,144.0,2023-04-19
+4,Filtro de Ar,Renault Clio,492.1,2023-02-23
+5,Pastilha de Freio,Chevrolet Onix,298.96,2023-03-03
+6,Disco de Freio,Volkswagen Golf,76.23,2023-01-23
+7,Disco de Freio,Fiat Uno,227.43,2023-01-30
+8,Filtro de Ar,Fiat Uno,309.02,2023-03-13
+9,Filtro de Óleo,Volkswagen Golf,162.16,2023-01-19
+10,Amortecedor,Volkswagen Gol,362.64,2023-03-19
+11,Filtro de Ar,Renault Clio,82.2,2023-04-15
+12,Filtro de Ar,Volkswagen Gol,227.36,2023-04-12
+13,Amortecedor,Volkswagen Gol,134.29,2023-03-17
+14,Pastilha de Freio,Volkswagen Gol,96.99,2023-01-22
+15,Velas de Ignição,Renault Clio,168.69,2023-02-27
+16,Filtro de Óleo,Hyundai HB20,457.7,2023-03-09
+17,Pastilha de Freio,Hyundai HB20,214.13,2023-02-14
+18,Amortecedor,Volkswagen Gol,188.23,2023-02-15
+19,Filtro de Óleo,Renault Clio,457.2,2023-04-21
+20,Filtro de Óleo,Chevrolet Onix,407.94,2023-01-24
+21,Amortecedor,Volkswagen Gol,151.4,2023-04-27
+22,Amortecedor,Chevrolet Onix,90.99,2023-04-27
+23,Filtro de Ar,Renault Clio,127.15,2023-01-23
+24,Filtro de Ar,Volkswagen Golf,145.85,2023-03-27
+25,Velas de Ignição,Renault Clio,373.04,2023-02-04
+26,Disco de Freio,Volkswagen Golf,423.24,2023-04-09
+27,Filtro de Óleo,Renault Clio,117.48,2023-02-05
+28,Pastilha de Freio,Volkswagen Golf,89.27,2023-04-01
+29,Filtro de Óleo,Renault Clio,190.24,2023-03-24
+30,Velas de Ignição,Chevrolet Onix,159.64,2023-03-29
+31,Filtro de Óleo,Volkswagen Golf,204.26,2023-03-04
+32,Amortecedor,Fiat Palio,306.69,2023-03-14
+33,Filtro de Ar,Chevrolet Onix,441.66,2023-01-19
+34,Disco de Freio,Renault Clio,357.79,2023-04-27
+35,Amortecedor,Chevrolet Onix,202.4,2023-02-01
+36,Filtro de Óleo,Renault Clio,387.19,2023-01-30
+37,Disco de Freio,Hyundai HB20,401.39,2023-02-16
+38,Velas de Ignição,Volkswagen Golf,285.83,2023-01-20
+39,Filtro de Ar,Volkswagen Golf,312.01,2023-03-03
+40,Velas de Ignição,Chevrolet Onix,212.41,2023-03-09
+41,Amortecedor,Chevrolet Onix,181.99,2023-04-17
+42,Filtro de Ar,Renault Clio,276.77,2023-01-19
+43,Velas de Ignição,Fiat Uno,361.17,2023-01-14
+44,Filtro de Óleo,Volkswagen Golf,268.18,2023-04-19
+45,Amortecedor,Fiat Palio,448.48,2023-03-25
+46,Pastilha de Freio,Volkswagen Gol,393.69,2023-02-16
+47,Amortecedor,Fiat Uno,367.65,2023-02-08
+48,Amortecedor,Fiat Uno,70.17,2023-02-19
+49,Pastilha de Freio,Chevrolet Onix,488.38,2023-01-18
+50,Filtro de Óleo,Volkswagen Gol,145.04,2023-04-04
+51,Pastilha de Freio,Volkswagen Gol,378.33,2023-03-27
+52,Filtro de Óleo,Volkswagen Golf,119.61,2023-03-17
+53,Amortecedor,Fiat Palio,393.32,2023-02-10
+54,Velas de Ignição,Volkswagen Golf,341.36,2023-04-08
+55,Pastilha de Freio,Renault Clio,132.05,2023-04-22
+56,Disco de Freio,Renault Clio,123.73,2023-03-18
+57,Filtro de Ar,Fiat Uno,239.68,2023-03-22
+58,Filtro de Ar,Hyundai HB20,64.48,2023-04-11
+59,Amortecedor,Fiat Palio,473.4,2023-03-29
+60,Filtro de Ar,Chevrolet Onix,149.03,2023-04-28
+61,Pastilha de Freio,Chevrolet Onix,244.39,2023-01-28
+62,Pastilha de Freio,Chevrolet Onix,303.92,2023-03-29
+63,Pastilha de Freio,Volkswagen Gol,349.6,2023-02-20
+64,Velas de Ignição,Fiat Uno,409.0,2023-04-01
+65,Pastilha de Freio,Volkswagen Gol,309.06,2023-01-28
+66,Disco de Freio,Chevrolet Onix,427.62,2023-01-12
+67,Filtro de Óleo,Volkswagen Golf,432.47,2023-01-18
+68,Velas de Ignição,Volkswagen Gol,352.12,2023-01-11
+69,Velas de Ignição,Hyundai HB20,120.57,2023-02-13
+70,Filtro de Óleo,Volkswagen Gol,133.24,2023-02-23
+71,Disco de Freio,Volkswagen Golf,243.87,2023-01-02
+72,Filtro de Ar,Chevrolet Onix,147.79,2023-03-28
+73,Velas de Ignição,Volkswagen Gol,382.46,2023-02-12
+74,Disco de Freio,Fiat Palio,348.03,2023-01-28
+75,Disco de Freio,Volkswagen Golf,324.6,2023-04-12
+76,Filtro de Óleo,Fiat Uno,243.29,2023-01-19
+77,Pastilha de Freio,Volkswagen Gol,324.98,2023-02-14
+78,Filtro de Ar,Volkswagen Gol,339.07,2023-03-19
+79,Filtro de Ar,Renault Clio,497.64,2023-02-06
+80,Amortecedor,Volkswagen Golf,397.81,2023-04-28
+81,Disco de Freio,Hyundai HB20,379.51,2023-04-01
+82,Filtro de Óleo,Hyundai HB20,355.55,2023-02-03
+83,Velas de Ignição,Hyundai HB20,204.41,2023-04-10
+84,Velas de Ignição,Chevrolet Onix,498.8,2023-03-26
+85,Amortecedor,Volkswagen Gol,309.16,2023-01-23
+86,Filtro de Ar,Volkswagen Gol,437.45,2023-01-23
+87,Filtro de Óleo,Hyundai HB20,183.25,2023-03-24
+88,Pastilha de Freio,Chevrolet Onix,267.44,2023-01-20
+89,Amortecedor,Fiat Uno,412.38,2023-02-17
+90,Velas de Ignição,Chevrolet Onix,155.98,2023-04-08
+91,Filtro de Ar,Renault Clio,230.9,2023-03-17
+92,Filtro de Óleo,Hyundai HB20,370.88,2023-03-10
+93,Filtro de Ar,Renault Clio,427.29,2023-04-11
+94,Pastilha de Freio,Fiat Uno,387.52,2023-03-05
+95,Filtro de Ar,Fiat Uno,108.6,2023-04-13
+96,Amortecedor,Chevrolet Onix,204.46,2023-01-15
+97,Velas de Ignição,Volkswagen Golf,276.59,2023-02-24
+98,Filtro de Ar,Fiat Palio,345.14,2023-01-03
+99,Amortecedor,Volkswagen Golf,214.12,2023-03-04
+100,Filtro de Ar,Renault Clio,66.0,2023-02-11
+101,Filtro de Óleo,Volkswagen Golf,64.07,2023-03-10
+102,Filtro de Óleo,Fiat Uno,76.51,2023-02-27
+103,Filtro de Óleo,Volkswagen Gol,50.79,2023-02-13
+104,Amortecedor,Volkswagen Gol,395.14,2023-04-23
+105,Velas de Ignição,Renault Clio,488.5,2023-03-25
+106,Disco de Freio,Hyundai HB20,71.91,2023-03-13
+107,Filtro de Ar,Chevrolet Onix,134.98,2023-03-01
+108,Filtro de Ar,Chevrolet Onix,234.19,2023-02-14
+109,Filtro de Ar,Fiat Uno,151.1,2023-03-05
+110,Filtro de Ar,Volkswagen Gol,51.95,2023-01-29
+111,Amortecedor,Fiat Uno,478.58,2023-03-22
+112,Filtro de Ar,Fiat Uno,85.92,2023-02-01
+113,Filtro de Ar,Hyundai HB20,418.21,2023-04-05
+114,Amortecedor,Renault Clio,426.98,2023-01-22
+115,Filtro de Ar,Fiat Palio,216.11,2023-01-14
+116,Velas de Ignição,Chevrolet Onix,79.17,2023-03-19
+117,Velas de Ignição,Renault Clio,62.45,2023-02-19
+118,Disco de Freio,Volkswagen Golf,97.97,2023-04-30
+119,Filtro de Óleo,Chevrolet Onix,420.46,2023-03-19
+120,Filtro de Óleo,Renault Clio,208.81,2023-01-28
+121,Amortecedor,Chevrolet Onix,451.87,2023-01-18
+122,Filtro de Ar,Fiat Uno,447.56,2023-01-10
+123,Filtro de Óleo,Fiat Palio,370.8,2023-03-21
+124,Filtro de Ar,Fiat Uno,130.03,2023-01-30
+125,Pastilha de Freio,Fiat Uno,385.14,2023-04-22
+126,Filtro de Ar,Hyundai HB20,300.5,2023-04-22
+127,Velas de Ignição,Chevrolet Onix,265.97,2023-02-27
+128,Pastilha de Freio,Volkswagen Gol,200.4,2023-03-31
+129,Amortecedor,Hyundai HB20,208.98,2023-01-10
+130,Disco de Freio,Hyundai HB20,352.65,2023-04-20
+131,Amortecedor,Volkswagen Gol,336.4,2023-02-01
+132,Pastilha de Freio,Chevrolet Onix,274.01,2023-01-07
+133,Filtro de Ar,Chevrolet Onix,457.56,2023-02-01
+134,Disco de Freio,Hyundai HB20,457.39,2023-02-09
+135,Filtro de Ar,Fiat Uno,357.07,2023-03-11
+136,Disco de Freio,Renault Clio,402.88,2023-04-22
+137,Disco de Freio,Hyundai HB20,335.72,2023-02-17
+138,Pastilha de Freio,Volkswagen Golf,469.23,2023-01-21
+139,Filtro de Óleo,Volkswagen Golf,332.18,2023-03-23
+140,Amortecedor,Hyundai HB20,61.29,2023-03-26
+141,Filtro de Óleo,Renault Clio,437.15,2023-01-29
+142,Filtro de Ar,Volkswagen Golf,457.05,2023-02-19
+143,Amortecedor,Volkswagen Gol,230.33,2023-03-10
+144,Disco de Freio,Volkswagen Golf,461.61,2023-03-26
+145,Amortecedor,Renault Clio,318.45,2023-04-07
+146,Velas de Ignição,Volkswagen Gol,139.55,2023-02-03
+147,Filtro de Ar,Volkswagen Golf,58.18,2023-01-03
+148,Amortecedor,Chevrolet Onix,95.39,2023-03-19
+149,Disco de Freio,Renault Clio,79.09,2023-03-28
+150,Filtro de Ar,Chevrolet Onix,153.58,2023-01-22
+151,Disco de Freio,Hyundai HB20,494.47,2023-03-07
+152,Velas de Ignição,Volkswagen Golf,111.5,2023-03-28
+153,Velas de Ignição,Volkswagen Golf,237.45,2023-02-15
+154,Filtro de Ar,Hyundai HB20,105.1,2023-03-02
+155,Pastilha de Freio,Hyundai HB20,429.74,2023-02-27
+156,Filtro de Óleo,Fiat Palio,310.23,2023-03-15
+157,Pastilha de Freio,Fiat Uno,188.62,2023-01-13
+158,Filtro de Ar,Volkswagen Golf,335.4,2023-03-02
+159,Amortecedor,Renault Clio,264.81,2023-03-04
+160,Pastilha de Freio,Chevrolet Onix,451.18,2023-02-17
+161,Filtro de Ar,Volkswagen Gol,373.52,2023-04-10
+162,Pastilha de Freio,Renault Clio,241.5,2023-04-17
+163,Filtro de Óleo,Volkswagen Golf,178.91,2023-04-20
+164,Pastilha de Freio,Renault Clio,331.55,2023-03-17
+165,Pastilha de Freio,Volkswagen Gol,326.89,2023-02-23
+166,Filtro de Óleo,Chevrolet Onix,371.69,2023-04-24
+167,Amortecedor,Renault Clio,309.21,2023-04-16
+168,Amortecedor,Volkswagen Gol,106.0,2023-03-04
+169,Amortecedor,Hyundai HB20,447.63,2023-01-30
+170,Pastilha de Freio,Fiat Uno,332.11,2023-02-10
+171,Disco de Freio,Chevrolet Onix,92.97,2023-01-04
+172,Disco de Freio,Volkswagen Golf,230.08,2023-04-26
+173,Amortecedor,Hyundai HB20,408.22,2023-01-16
+174,Filtro de Óleo,Fiat Uno,411.73,2023-03-21
+175,Amortecedor,Renault Clio,218.52,2023-01-22
+176,Pastilha de Freio,Volkswagen Golf,368.92,2023-04-12
+177,Velas de Ignição,Chevrolet Onix,277.44,2023-02-27
+178,Filtro de Ar,Volkswagen Gol,110.05,2023-02-27
+179,Amortecedor,Chevrolet Onix,112.32,2023-02-14
+180,Filtro de Ar,Hyundai HB20,335.75,2023-03-01
+181,Pastilha de Freio,Volkswagen Golf,118.61,2023-04-04
+182,Disco de Freio,Fiat Uno,194.05,2023-01-06
+183,Velas de Ignição,Volkswagen Gol,74.96,2023-04-02
+184,Filtro de Óleo,Renault Clio,69.33,2023-02-20
+185,Velas de Ignição,Chevrolet Onix,159.36,2023-03-26
+186,Amortecedor,Hyundai HB20,272.27,2023-01-24
+187,Pastilha de Freio,Hyundai HB20,441.69,2023-03-28
+188,Filtro de Óleo,Volkswagen Golf,417.92,2023-01-12
+189,Disco de Freio,Hyundai HB20,330.01,2023-03-19
+190,Velas de Ignição,Volkswagen Golf,198.51,2023-03-31
+191,Filtro de Ar,Fiat Uno,449.5,2023-02-13
+192,Pastilha de Freio,Hyundai HB20,419.41,2023-02-01
+193,Filtro de Óleo,Renault Clio,152.55,2023-03-05
+194,Disco de Freio,Volkswagen Gol,270.64,2023-02-13
+195,Amortecedor,Chevrolet Onix,95.15,2023-03-02
+196,Pastilha de Freio,Fiat Uno,81.07,2023-02-26
+197,Filtro de Ar,Fiat Palio,384.23,2023-04-08
+198,Disco de Freio,Volkswagen Golf,126.77,2023-03-01
+199,Amortecedor,Fiat Palio,107.61,2023-04-29
+200,Amortecedor,Renault Clio,145.31,2023-01-02
+201,Filtro de Ar,Chevrolet Onix,236.23,2023-02-12
+202,Filtro de Ar,Volkswagen Gol,267.4,2023-03-07
+203,Disco de Freio,Volkswagen Gol,251.35,2023-02-22
+204,Pastilha de Freio,Chevrolet Onix,443.78,2023-04-02
+205,Filtro de Ar,Renault Clio,106.18,2023-01-13
+206,Pastilha de Freio,Fiat Palio,189.52,2023-04-28
+207,Filtro de Óleo,Fiat Palio,75.32,2023-01-08
+208,Filtro de Óleo,Fiat Uno,172.55,2023-04-16
+209,Disco de Freio,Hyundai HB20,145.73,2023-01-02
+210,Disco de Freio,Fiat Palio,439.7,2023-03-21
+211,Pastilha de Freio,Hyundai HB20,230.27,2023-01-09
+212,Amortecedor,Chevrolet Onix,68.15,2023-03-30
+213,Filtro de Óleo,Chevrolet Onix,223.51,2023-01-17
+214,Amortecedor,Renault Clio,443.93,2023-04-25
+215,Pastilha de Freio,Fiat Palio,123.89,2023-04-30
+216,Velas de Ignição,Hyundai HB20,362.36,2023-02-19
+217,Amortecedor,Renault Clio,386.76,2023-03-08
+218,Amortecedor,Hyundai HB20,494.36,2023-03-13
+219,Amortecedor,Renault Clio,490.96,2023-04-17
+220,Filtro de Óleo,Volkswagen Golf,439.04,2023-02-01
+221,Amortecedor,Hyundai HB20,422.52,2023-04-11
+222,Filtro de Ar,Chevrolet Onix,228.33,2023-04-25
+223,Disco de Freio,Volkswagen Golf,62.51,2023-02-05
+224,Filtro de Óleo,Fiat Palio,400.44,2023-02-03
+225,Amortecedor,Fiat Uno,474.55,2023-02-05
+226,Filtro de Ar,Volkswagen Gol,61.84,2023-02-28
+227,Amortecedor,Chevrolet Onix,207.56,2023-02-26
+228,Filtro de Óleo,Chevrolet Onix,195.74,2023-04-11
+229,Amortecedor,Fiat Uno,97.49,2023-01-17
+230,Pastilha de Freio,Chevrolet Onix,185.75,2023-02-05
+231,Pastilha de Freio,Fiat Uno,59.78,2023-04-08
+232,Pastilha de Freio,Hyundai HB20,104.62,2023-01-06
+233,Velas de Ignição,Fiat Palio,138.02,2023-02-09
+234,Filtro de Ar,Volkswagen Golf,490.58,2023-03-24
+235,Amortecedor,Renault Clio,88.86,2023-01-03
+236,Filtro de Óleo,Hyundai HB20,411.97,2023-02-07
+237,Disco de Freio,Fiat Palio,293.18,2023-04-03
+238,Pastilha de Freio,Hyundai HB20,437.43,2023-03-27
+239,Disco de Freio,Renault Clio,319.78,2023-03-09
+240,Velas de Ignição,Fiat Uno,415.94,2023-03-23
+241,Disco de Freio,Fiat Uno,209.63,2023-03-22
+242,Disco de Freio,Chevrolet Onix,241.31,2023-04-16
+243,Velas de Ignição,Hyundai HB20,100.12,2023-02-26
+244,Disco de Freio,Hyundai HB20,447.97,2023-04-30
+245,Disco de Freio,Fiat Uno,255.67,2023-04-22
+246,Filtro de Ar,Chevrolet Onix,415.03,2023-04-18
+247,Velas de Ignição,Fiat Palio,359.93,2023-04-02
+248,Pastilha de Freio,Renault Clio,235.76,2023-01-07
+249,Filtro de Ar,Fiat Palio,231.67,2023-04-21
+250,Filtro de Óleo,Volkswagen Golf,420.26,2023-01-21
+251,Pastilha de Freio,Fiat Uno,393.83,2023-03-13
+252,Pastilha de Freio,Fiat Uno,112.9,2023-02-22
+253,Pastilha de Freio,Fiat Palio,97.56,2023-02-19
+254,Filtro de Óleo,Fiat Uno,414.82,2023-04-06
+255,Filtro de Óleo,Chevrolet Onix,374.67,2023-03-26
+256,Velas de Ignição,Hyundai HB20,194.74,2023-04-28
+257,Velas de Ignição,Chevrolet Onix,283.86,2023-01-25
+258,Filtro de Óleo,Fiat Uno,197.41,2023-04-13
+259,Disco de Freio,Hyundai HB20,354.32,2023-02-21
+260,Velas de Ignição,Chevrolet Onix,416.83,2023-03-29
+261,Filtro de Óleo,Hyundai HB20,448.17,2023-03-01
+262,Amortecedor,Volkswagen Gol,156.15,2023-01-30
+263,Amortecedor,Hyundai HB20,98.89,2023-04-03
+264,Velas de Ignição,Fiat Uno,268.35,2023-02-03
+265,Filtro de Óleo,Chevrolet Onix,55.71,2023-02-05
+266,Pastilha de Freio,Volkswagen Golf,263.25,2023-04-13
+267,Amortecedor,Hyundai HB20,91.77,2023-03-13
+268,Filtro de Ar,Fiat Uno,241.39,2023-01-14
+269,Velas de Ignição,Fiat Palio,285.73,2023-01-04
+270,Filtro de Óleo,Chevrolet Onix,107.18,2023-03-16
+271,Disco de Freio,Chevrolet Onix,411.82,2023-03-12
+272,Amortecedor,Volkswagen Golf,431.45,2023-01-10
+273,Filtro de Ar,Hyundai HB20,353.26,2023-04-23
+274,Disco de Freio,Chevrolet Onix,290.85,2023-02-22
+275,Amortecedor,Fiat Palio,107.53,2023-04-01
+276,Filtro de Óleo,Volkswagen Golf,465.71,2023-04-25
+277,Amortecedor,Volkswagen Gol,307.05,2023-01-10
+278,Amortecedor,Fiat Palio,72.22,2023-04-27
+279,Velas de Ignição,Chevrolet Onix,185.15,2023-01-11
+280,Filtro de Ar,Hyundai HB20,497.27,2023-04-29
+281,Velas de Ignição,Hyundai HB20,489.34,2023-04-21
+282,Filtro de Óleo,Volkswagen Gol,333.2,2023-03-25
+283,Pastilha de Freio,Fiat Palio,171.42,2023-04-26
+284,Filtro de Óleo,Volkswagen Gol,361.43,2023-04-03
+285,Filtro de Ar,Volkswagen Gol,417.41,2023-04-07
+286,Pastilha de Freio,Hyundai HB20,107.42,2023-01-04
+287,Filtro de Ar,Fiat Palio,320.62,2023-03-10
+288,Filtro de Ar,Fiat Palio,449.31,2023-01-05
+289,Amortecedor,Chevrolet Onix,422.37,2023-02-08
+290,Pastilha de Freio,Hyundai HB20,98.03,2023-01-28
+291,Disco de Freio,Volkswagen Gol,399.91,2023-04-02
+292,Filtro de Óleo,Fiat Uno,347.32,2023-01-29
+293,Pastilha de Freio,Fiat Palio,187.85,2023-04-19
+294,Pastilha de Freio,Volkswagen Golf,284.39,2023-01-20
+295,Pastilha de Freio,Volkswagen Golf,454.87,2023-03-06
+296,Amortecedor,Chevrolet Onix,437.72,2023-01-21
+297,Disco de Freio,Volkswagen Gol,82.91,2023-02-17
+298,Filtro de Óleo,Fiat Uno,477.76,2023-04-29
+299,Filtro de Óleo,Renault Clio,329.16,2023-02-02
+300,Velas de Ignição,Chevrolet Onix,51.03,2023-02-17
+301,Filtro de Óleo,Chevrolet Onix,126.6,2023-01-13
+302,Filtro de Óleo,Fiat Uno,117.2,2023-03-23
+303,Velas de Ignição,Chevrolet Onix,349.69,2023-04-27
+304,Amortecedor,Fiat Palio,316.42,2023-01-31
+305,Velas de Ignição,Renault Clio,484.67,2023-01-30
+306,Velas de Ignição,Fiat Palio,332.09,2023-02-05
+307,Amortecedor,Volkswagen Gol,386.31,2023-04-30
+308,Filtro de Óleo,Chevrolet Onix,324.97,2023-03-16
+309,Filtro de Ar,Volkswagen Golf,207.2,2023-01-28
+310,Filtro de Ar,Fiat Palio,101.73,2023-02-16
+311,Velas de Ignição,Fiat Uno,64.35,2023-03-08
+312,Filtro de Óleo,Hyundai HB20,434.93,2023-04-23
+313,Filtro de Ar,Fiat Uno,315.56,2023-01-21
+314,Velas de Ignição,Chevrolet Onix,293.24,2023-01-08
+315,Velas de Ignição,Hyundai HB20,420.47,2023-03-12
+316,Disco de Freio,Volkswagen Gol,222.86,2023-04-19
+317,Disco de Freio,Volkswagen Golf,404.06,2023-01-14
+318,Amortecedor,Fiat Uno,413.51,2023-02-11
+319,Filtro de Ar,Renault Clio,142.8,2023-04-04
+320,Filtro de Ar,Renault Clio,147.19,2023-02-08
+321,Amortecedor,Hyundai HB20,103.83,2023-02-22
+322,Filtro de Ar,Volkswagen Gol,68.77,2023-01-15
+323,Pastilha de Freio,Volkswagen Gol,90.33,2023-02-21
+324,Amortecedor,Fiat Uno,464.91,2023-02-20
+325,Disco de Freio,Fiat Uno,372.41,2023-01-20
+326,Velas de Ignição,Volkswagen Gol,447.06,2023-01-12
+327,Filtro de Ar,Volkswagen Gol,342.39,2023-01-09
+328,Velas de Ignição,Volkswagen Golf,215.46,2023-02-19
+329,Disco de Freio,Hyundai HB20,380.49,2023-01-14
+330,Filtro de Óleo,Fiat Uno,117.86,2023-04-18
+331,Amortecedor,Renault Clio,419.54,2023-02-24
+332,Filtro de Ar,Chevrolet Onix,427.81,2023-02-06
+333,Filtro de Óleo,Volkswagen Golf,341.84,2023-04-27
+334,Amortecedor,Fiat Palio,369.86,2023-03-06
+335,Filtro de Óleo,Chevrolet Onix,108.2,2023-04-03
+336,Amortecedor,Hyundai HB20,65.99,2023-01-01
+337,Disco de Freio,Renault Clio,251.11,2023-02-24
+338,Pastilha de Freio,Hyundai HB20,100.56,2023-03-12
+339,Disco de Freio,Chevrolet Onix,190.15,2023-01-22
+340,Filtro de Ar,Volkswagen Gol,363.69,2023-03-07
+341,Filtro de Óleo,Fiat Palio,182.46,2023-01-22
+342,Amortecedor,Volkswagen Gol,415.89,2023-02-26
+343,Velas de Ignição,Renault Clio,376.69,2023-04-06
+344,Amortecedor,Fiat Uno,234.74,2023-04-09
+345,Disco de Freio,Renault Clio,400.39,2023-01-03
+346,Filtro de Óleo,Fiat Uno,237.7,2023-03-10
+347,Filtro de Ar,Renault Clio,59.43,2023-02-20
+348,Velas de Ignição,Fiat Uno,359.79,2023-04-02
+349,Pastilha de Freio,Fiat Uno,95.58,2023-02-15
+350,Amortecedor,Fiat Palio,234.06,2023-01-09
+351,Velas de Ignição,Chevrolet Onix,52.6,2023-02-24
+352,Filtro de Óleo,Fiat Uno,222.67,2023-02-26
+353,Filtro de Óleo,Volkswagen Golf,393.25,2023-04-15
+354,Filtro de Ar,Fiat Palio,483.13,2023-01-20
+355,Velas de Ignição,Volkswagen Gol,76.25,2023-03-10
+356,Filtro de Ar,Chevrolet Onix,73.43,2023-04-28
+357,Filtro de Ar,Hyundai HB20,131.18,2023-02-03
+358,Filtro de Ar,Volkswagen Golf,348.14,2023-03-27
+359,Disco de Freio,Fiat Palio,90.04,2023-03-29
+360,Filtro de Óleo,Fiat Uno,82.47,2023-04-03
+361,Filtro de Ar,Chevrolet Onix,449.05,2023-02-28
+362,Pastilha de Freio,Fiat Uno,474.8,2023-03-26
+363,Velas de Ignição,Renault Clio,127.48,2023-02-12
+364,Amortecedor,Hyundai HB20,276.54,2023-01-08
+365,Disco de Freio,Renault Clio,168.93,2023-03-09
+366,Disco de Freio,Fiat Uno,169.67,2023-04-14
+367,Filtro de Óleo,Volkswagen Golf,137.34,2023-01-26
+368,Filtro de Óleo,Fiat Uno,262.54,2023-04-18
+369,Amortecedor,Fiat Palio,99.0,2023-01-05
+370,Amortecedor,Volkswagen Golf,96.77,2023-03-30
+371,Pastilha de Freio,Volkswagen Gol,369.76,2023-02-06
+372,Filtro de Ar,Volkswagen Golf,284.92,2023-01-17
+373,Filtro de Ar,Fiat Palio,232.73,2023-03-27
+374,Filtro de Óleo,Volkswagen Golf,381.68,2023-04-07
+375,Filtro de Ar,Renault Clio,409.53,2023-01-02
+376,Filtro de Ar,Hyundai HB20,483.01,2023-03-21
+377,Pastilha de Freio,Volkswagen Gol,476.19,2023-01-27
+378,Disco de Freio,Fiat Uno,493.83,2023-02-07
+379,Filtro de Ar,Hyundai HB20,153.69,2023-02-07
+380,Velas de Ignição,Hyundai HB20,427.92,2023-02-05
+381,Disco de Freio,Renault Clio,56.36,2023-04-28
+382,Amortecedor,Volkswagen Gol,431.72,2023-01-04
+383,Amortecedor,Renault Clio,232.76,2023-03-14
+384,Velas de Ignição,Fiat Palio,101.77,2023-02-16
+385,Amortecedor,Volkswagen Gol,56.25,2023-01-17
+386,Filtro de Ar,Volkswagen Golf,50.41,2023-04-17
+387,Filtro de Óleo,Hyundai HB20,148.48,2023-04-08
+388,Pastilha de Freio,Volkswagen Golf,107.54,2023-01-31
+389,Filtro de Ar,Renault Clio,436.76,2023-04-16
+390,Disco de Freio,Fiat Palio,259.45,2023-01-03
+391,Pastilha de Freio,Chevrolet Onix,237.36,2023-04-24
+392,Disco de Freio,Fiat Palio,135.76,2023-04-14
+393,Pastilha de Freio,Fiat Palio,471.64,2023-02-26
+394,Disco de Freio,Renault Clio,304.35,2023-04-17
+395,Pastilha de Freio,Volkswagen Golf,363.75,2023-01-24
+396,Filtro de Ar,Fiat Palio,250.27,2023-02-09
+397,Pastilha de Freio,Chevrolet Onix,357.38,2023-01-31
+398,Amortecedor,Fiat Palio,270.71,2023-01-20
+399,Filtro de Óleo,Hyundai HB20,245.68,2023-03-18
+400,Filtro de Óleo,Volkswagen Gol,113.25,2023-04-24
